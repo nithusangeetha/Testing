@@ -1,0 +1,36 @@
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\Azure Devops.dll.config
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\Azure Devops.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\Azure Devops.pdb
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\csc.exe
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\csc.exe.config
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\csc.rsp
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\csi.exe
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\csi.rsp
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\System.AppContext.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\vbc.exe
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\vbc.exe.config
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\vbc.rsp
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\VBCSCompiler.exe
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\obj\Debug\Azure Devops.csprojAssemblyReference.cache
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\obj\Debug\Azure Devops.csproj.CoreCompileInputs.cache
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\obj\Debug\Azure Devops.csproj.CopyComplete
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\obj\Debug\Azure Devops.dll
+C:\Users\bbhupati\Azure\Azure Devops\Azure Devops\obj\Debug\Azure Devops.pdb
